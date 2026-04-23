@@ -1,0 +1,23 @@
+about;about
+actual;факт
+adding;добавляя
+again;снова
+ahead;вперёд на
+alert;лист
+alive;живы
+alone;yalnız başınıza
+alright;хорошо
+also;также и
+altar;Алтарь
+always;всегда
+anyway;в любом случае
+approaching;Положительно
+aren;are
+armor;броня
+asap;asap
+ashes;зола
+attacked;которую ты атаковала
+awesome;замечательно
+babies;Дети
+baby;ребёнок
+back;назад
